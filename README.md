@@ -5,7 +5,7 @@ I recently developed a job portal website using HTML, CSS, JavaScript, PHP, and 
 I’m continuously learning and exploring new ways to create impactful digital solutions.
 
 
-<a href="www.linkedin.com/in/jibintgeorge"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https:www.linkedin.com/in/jibintgeorge"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
