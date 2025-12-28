@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jibin, a BCA student passionate about programming and web development. Skilled in C++, Java, and PHP.
+I'm Jibin, a BCA student passionate about programming and web development. Skilled in C++, and PHP.
 I recently developed a job portal website using HTML, CSS, JavaScript, PHP, and XAMPP, showcasing my ability to integrate frontend design with backend logic.
 I’m continuously learning and exploring new ways to create impactful digital solutions.
 
@@ -16,7 +16,7 @@ I’m continuously learning and exploring new ways to create impactful digital s
 
 - **Name**: Jibin T George
 - **From**: India , Kerala
-- **Web Developer** | **C++** | **Java**
+- **Web Developer** | **C++** 
 -  I have experience in website development using HTML, CSS, JavaScript, PHP, and MySQL.
 - Continuously improving my knowledge of **Website Development** and **AI & ML Engineering**.
 - I'm currently learning Python and Django, and also exploring the fundamentals of Artificial Intelligence and Machine Learning.
