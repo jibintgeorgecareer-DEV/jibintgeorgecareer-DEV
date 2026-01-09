@@ -60,6 +60,6 @@ Let me know if you'd like this integrated into a full updated bio or formatted f
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[JobC](https://github.com/jibintgeorgecareer-DEV/JobC---Job-Portal)**    | A job Portal website that user can upload their INTRODUCTION VEDIO in the profile and apply for jobs. |
-| **[Mylist-to-do-lost](https://github.com/jibintgeorgecareer-DEV/Mylist-to-do-list-app)**   | A C++-based desktop CLI application that helps users create, manage, and track their to-do lists.  |
+| **[Mylist-to-do-list](https://github.com/jibintgeorgecareer-DEV/Mylist-to-do-list-app)**   | A C++ desktop CLI application that helps users create, manage, and track their to-do lists.  |
 
 ---
