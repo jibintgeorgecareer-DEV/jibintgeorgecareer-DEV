@@ -16,7 +16,7 @@ I’m continuously learning and exploring new ways to create impactful digital s
 
 - **Name**: Jibin T George
 - **From**: India , Kerala
-- **Web Developer** | **C++** 
+- **Python** | **C++** | **php**
 -  I have experience in website development using HTML, CSS, JavaScript, PHP, and MySQL.
 - Continuously improving my knowledge of **Website Development** and **AI & ML Engineering**.
 - I'm currently learning Python and Django, and also exploring the fundamentals of Artificial Intelligence and Machine Learning.
