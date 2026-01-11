@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm Jibin, a BCA student passionate about programming and web development. Skilled in C++, and PHP.
-I recently developed a job portal website using HTML, CSS, JavaScript, PHP, and XAMPP, showcasing my ability to integrate frontend design with backend logic.
-I’m continuously learning and exploring new ways to create impactful digital solutions.
+I am a final-year Bachelor of Computer Applications (BCA) student with strong skills in C++, PHP, and Python. My academic journey has been driven by a deep interest in Artificial Intelligence (AI) and Machine Learning (ML), and I enjoy exploring how these technologies can solve real-world problems.
+I love to build and create things, turning ideas into functional applications. So far, I have developed:
+- 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
+- 📋 To-Do List Desktop Application built in C++, offering a simple and efficient way to manage daily tasks.
+
 
 
 <a href="https://www.linkedin.com/in/jibintgeorge"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
