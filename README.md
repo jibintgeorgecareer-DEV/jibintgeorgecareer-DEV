@@ -42,6 +42,7 @@ Let me know if you'd like this integrated into a full updated bio or formatted f
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=000000" alt="Django" />
      
   </div>
 </div>
