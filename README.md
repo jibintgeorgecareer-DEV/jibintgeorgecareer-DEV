@@ -4,6 +4,7 @@ I am a final-year Bachelor of Computer Applications (BCA) student with strong sk
 I love to build and create things, turning ideas into functional applications. So far, I have developed:
 - 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
 - 📋 To-Do List Desktop Application built in C++, offering a simple and efficient way to manage daily tasks.
+- 🌱 CROPPILOT AI - Smart farming platform built to help farmers
 
 
 
