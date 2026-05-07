@@ -48,7 +48,7 @@ I love to build and create things, turning ideas into functional applications. S
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/College_Hackathon-Winner-blue?style=for-the-badge&color=000000" alt="College Hackathon Winner" />
+<img src="[https://img.shields.io/badge/College_Hackathon-Winner-blue?style=for-the-badge&color=000000](https://www.linkedin.com/in/jibintgeorge/overlay/Certifications/28928977/treasury/?profileId=ACoAAE3SxdgBAWHWrG62WJy8r43UBEsQMyleo8Q)" alt="College Hackathon Winner" />
 
 
 </div>
