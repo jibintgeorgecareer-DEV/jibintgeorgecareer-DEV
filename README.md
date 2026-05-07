@@ -48,7 +48,7 @@ I love to build and create things, turning ideas into functional applications. S
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/Digital_Marketing-Certified-blue?style=for-the-badge&color=000000" alt="Digital Marketing Certification" />
+<img src="https://img.shields.io/badge/Digital_Marketing-Certified-blue?style=for-the-badge&color=000000" alt="College Hackathon Winner" />
 
 
 </div>
