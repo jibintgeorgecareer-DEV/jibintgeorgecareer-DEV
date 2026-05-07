@@ -4,8 +4,7 @@ I am a final-year Bachelor of Computer Applications (BCA) student with strong sk
 I love to build and create things, turning ideas into functional applications. So far, I have developed:
 - 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
 - 📋 To-Do List Desktop Application built in C++, offering a simple and efficient way to manage daily tasks.
-- 🌱 CROPPILOT AI - Smart farming platform built to help farmers
-
+- 🌱 CROPPILOT - AI-powered Farmer support system
 
 
 <a href="https://www.linkedin.com/in/jibintgeorge"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,11 +19,9 @@ I love to build and create things, turning ideas into functional applications. S
 - **Name**: Jibin T George
 - **From**: India , Kerala
 - **Python** | **C++** | **php**
--  I have experience in website development using HTML, CSS, JavaScript, PHP, and MySQL.
+-  I have experience in website development using PHP , Django.
 - Continuously improving my knowledge of **Website Development** and **AI & ML Engineering**.
-- I'm currently learning Python and Django, and also exploring the fundamentals of Artificial Intelligence and Machine Learning.
-Let me know if you'd like this integrated into a full updated bio or formatted for a specific platform.
-
+- I'm currently learning  fundamentals of Artificial Intelligence and Machine Learning.
 
 </details>
 <br>
