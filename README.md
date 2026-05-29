@@ -20,9 +20,10 @@ I love to build and create things, turning ideas into functional applications. S
 
 - **Name**: Jibin T George
 - **From**: India , Kerala
-- **Python** | **C++** | **php**
+- **Python** | **C++** | **Django** | **Qt**
 -  I have experience in website development using PHP , Django.
-- Continuously improving my knowledge of **Website Development** and **AI & ML Engineering**.
+-  Desktop App Development usign Qt C++
+- Continuously improving my knowledge of **Software Development** and **AI & ML Engineering**.
 - I'm currently learning  fundamentals of Artificial Intelligence and Machine Learning.
 
 </details>
@@ -42,6 +43,7 @@ I love to build and create things, turning ideas into functional applications. S
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=000000" alt="Django" />
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" />
      
   </div>
 </div>
@@ -62,9 +64,9 @@ I love to build and create things, turning ideas into functional applications. S
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[JobC](https://github.com/jibintgeorgecareer-DEV/JobC---Job-Portal)**    | A job Portal website that user can upload their INTRODUCTION VEDIO in the profile and apply for jobs. |
-| **[Mylist-to-do-list](https://github.com/jibintgeorgecareer-DEV/Mylist-to-do-list-app)**   | A C++ desktop CLI application that helps users create, manage, and track their to-do lists.  |
-| **[CROPPILOT-AI](https://github.com/jibintgeorgecareer-DEV/CROPILOT-AI-Farmer-Support-System)**   | AI-powered Farmer support system|
+| **[CROPPILOT-AI](https://github.com/jibintgeorgecareer-DEV/CROPILOT-AI-Farmer-Support-System)**    | AI-powered Farmer support system |
+| **[Mylist-GUI](https://github.com/jibintgeorgecareer-DEV/Mylist-to-do-list-app)**   | A C++ desktop CLI application that helps users create, manage, and track their to-do lists.  |
+| **[JobC](https://github.com/jibintgeorgecareer-DEV/JobC---Job-Portal)**   | A job Portal website that user can upload their INTRODUCTION VEDIO in the profile and apply for jobs.|
 
 
 ---
