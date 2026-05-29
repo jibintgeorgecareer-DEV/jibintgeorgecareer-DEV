@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I am a final-year Bachelor of Computer Applications (BCA) student with strong skills in C++, PHP, and Python. My academic journey has been driven by a deep interest in Artificial Intelligence (AI) and Machine Learning (ML), and I enjoy exploring how these technologies can solve real-world problems.
+BCA Graduate | Software Developer
+Motivated and detail-oriented software developer with a Bachelor of Computer Applications (BCA) from St. Joseph Academy, Moolamattom. Passionate about building efficient and user-focused applications using Python Django and C++ Qt.
+Skilled in web development, desktop application development, and problem solving, with a strong foundation in programming concepts and software design. Interested in Artificial Intelligence and Machine Learning, with a continuous focus on learning modern technologies and improving technical expertise.
+Dedicated to developing practical, scalable, and innovative software solutions while continuously expanding knowledge in software engineering and emerging technologies.
 I love to build and create things, turning ideas into functional applications. So far, I have developed:
-- 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
-- 📋 To-Do List Desktop Application built in C++, offering a simple and efficient way to manage daily tasks.
 - 🌱 CROPPILOT - AI-powered Farmer support system
-
+- Mylist_MyApp - Modern desktop To-Do List application built using **C++** and the **Qt Framework**.
+- 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
 
 <a href="https://www.linkedin.com/in/jibintgeorge"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
