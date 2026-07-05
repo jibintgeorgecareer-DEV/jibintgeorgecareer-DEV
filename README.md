@@ -65,7 +65,7 @@ I love to build and create things, turning ideas into functional applications. S
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[CROPPILOT-AI](https://github.com/jibintgeorgecareer-DEV/CROPILOT-AI-Farmer-Support-System)**    | AI-powered Farmer support system |
-| **[Mylist-GUI](https://github.com/jibintgeorgecareer-DEV/MYLIST_GUI--QT)**   | Mylist is a modern desktop To-Do List application built using **C++** and the **Qt Framework**.  |
+| **[Mylist-AI](https://github.com/jibintgeorgecareer-DEV/MyList_AI)**   | Mylist is a modern desktop To-Do List application built using **C++** and the **Qt Framework**.  |
 | **[JobC](https://github.com/jibintgeorgecareer-DEV/JobC---Job-Portal)**   | A job Portal website that user can upload their INTRODUCTION VEDIO in the profile and apply for jobs.|
 
 
