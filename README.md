@@ -20,7 +20,7 @@ I love to build and create things, turning ideas into functional applications. S
 
 - **Name**: Jibin T George
 - **From**: India , Kerala
-- **Python** | **C++** | **Django** | **Qt**
+- **Python** | **Django** | **C++** | **Qt**
 -  I have experience in website development using PHP , Django.
 -  Desktop App Development usign Qt C++
 - Continuously improving my knowledge of **Software Development** and **AI & ML Engineering**.
