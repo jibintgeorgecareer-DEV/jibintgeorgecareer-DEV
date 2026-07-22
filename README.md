@@ -65,7 +65,7 @@ I love to build and create things, turning ideas into functional applications. S
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[CROPPILOT-AI](https://github.com/jibintgeorgecareer-DEV/CROPILOT-AI-Farmer-Support-System)**    | AI-powered Farmer support system |
-| **[Mylist-AI](https://github.com/jibintgeorgecareer-DEV/MyList_AI)**   | A desktop task manager with a built‑in **AI assistant**, where users can set up **llama‑server** and **GGUF models**.  |
+| **[MyList-AI](https://github.com/jibintgeorgecareer-DEV/MyList_AI)**   | A desktop task manager with a built‑in **AI assistant**, where users can set up **llama‑server** and **GGUF models**.  |
 | **[JobC](https://github.com/jibintgeorgecareer-DEV/JobC---Job-Portal)**   | A job Portal website that user can upload their INTRODUCTION VEDIO in the profile and apply for jobs.|
 
 
