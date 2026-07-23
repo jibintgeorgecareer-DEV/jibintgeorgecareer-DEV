@@ -70,3 +70,13 @@ I love to build and create things, turning ideas into functional applications. S
 
 
 ---
+
+
+<h2 id="Releaes" align=''> Releases </h2>
+
+
+| **Releases**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[CROPPILOT-AI](https://github.com/jibintgeorgecareer-DEV/CROPILOT-AI-Farmer-Support-System)**    | AI-powered Farmer support system |
+
+---
