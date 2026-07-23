@@ -77,6 +77,6 @@ I love to build and create things, turning ideas into functional applications. S
 
 | **Releases**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[CROPPILOT-AI](https://github.com/jibintgeorgecareer-DEV/CROPILOT-AI-Farmer-Support-System)**    | AI-powered Farmer support system |
+| **[MyList V3 AI](https://github.com/jibintgeorgecareer-DEV/MyList_V3_AI)** [![Download](https://img.shields.io/badge/Download-Windows-C41E2F?style=flat&logo=windows)](https://github.com/jibintgeorgecareer-DEV/MyList_V3_AI/releases/tag/V3) | To Do List Windows Application built-in offline AI assistant. Runs entirely on-device using a local LLM. |
 
 ---
