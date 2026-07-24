@@ -6,7 +6,7 @@ Skilled in web development, desktop application development, and problem solving
 Dedicated to developing practical, scalable, and innovative software solutions while continuously expanding knowledge in software engineering and emerging technologies.
 I love to build and create things, turning ideas into functional applications. So far, I have developed:
 - 🌱 CROPPILOT - AI-powered Farmer support system
-- MyList_AI - Desktop To-Do List Offline AI application built using **C++** and the **Qt Framework**.
+- MyList_AI - **C++/Qt** desktop to-do application with built-in **offline AI assistance** — no cloud dependency.
 - 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
 
 <a href="https://www.linkedin.com/in/jibintgeorge"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
