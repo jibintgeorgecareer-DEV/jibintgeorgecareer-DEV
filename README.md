@@ -44,7 +44,7 @@ I love to build and create things, turning ideas into functional applications. S
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=000000" alt="Django" />
       <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" />
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Rest" />
+      <img src="https://img.shields.io/badge/REST-41CD52?style=for-the-badge&logo=qt&logoColor=blue" alt="Rest" />
     
   </div>
 </div>
