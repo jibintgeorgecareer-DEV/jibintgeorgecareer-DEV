@@ -5,7 +5,7 @@ Motivated and detail-oriented software developer with a Bachelor of Computer App
 Skilled in web development, desktop application development, and problem solving, with a strong foundation in programming concepts and software design. Interested in Artificial Intelligence and Machine Learning, with a continuous focus on learning modern technologies and improving technical expertise.
 Dedicated to developing practical, scalable, and innovative software solutions while continuously expanding knowledge in software engineering and emerging technologies.
 I love to build and create things, turning ideas into functional applications. So far, I have developed:
-- 🌱 CROPPILOT - **AI-powered** Farmer support system
+- 🌱 CROPPILOT - **AI-powered** Farmer support system using **Django & REST API**
 - 🤖 MyList - AI - **C++/Qt** desktop to-do application with built-in **offline AI assistance** — no cloud dependency.
 - 🖥️ Job Portal Website using PHP and XAMPP, designed to connect job seekers with employers.
 
@@ -20,7 +20,7 @@ I love to build and create things, turning ideas into functional applications. S
 
 - **Name**: Jibin T George
 - **From**: India , Kerala
-- **Python** | **Django** | **C++** | **Qt**
+- **Python** | **Django** | **REST API** | **C++** | **Qt**
 -  I have experience in website development using PHP , Django.
 -  Desktop App Development usign Qt C++
 - Continuously improving my knowledge of **Software Development** and **AI & ML Engineering**.
@@ -44,7 +44,7 @@ I love to build and create things, turning ideas into functional applications. S
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=000000" alt="Django" />
       <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" />
-     
+      <img src="" alt="REST API" />     
   </div>
 </div>
 
